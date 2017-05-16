@@ -1,0 +1,17 @@
+C:\SourceCode\Rob\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\SourceCode\Rob\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\SourceCode\Rob\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\SourceCode\Rob\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\SourceCode\Rob\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\SourceCode\Rob\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Bootcamp\coffeeshop\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Bootcamp\coffeeshop\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Bootcamp\coffeeshop\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Bootcamp\coffeeshop\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Bootcamp\coffeeshop\coffeeshop\src\com\manchesterdigital\coffeshop.net\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
